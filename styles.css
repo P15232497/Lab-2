@@ -1,0 +1,65 @@
+/*body{ background: red; }*/
+body
+h1 {
+	font-family: Arial Black,Arial Bold,Gadget,sans-serif;
+
+}
+
+h2 {
+	font-family: Franklin Gothic Medium,Franklin Gothic,ITC Franklin Gothic,Arial,sans-serif;
+
+}
+
+h3 {
+	font-family: Arial Rounded MT Bold,Helvetica Rounded,Arial,sans-serif;
+
+}
+header {
+  text-align: center;
+}
+
+  
+body {
+  max-width: 1300px;
+
+  margin: 0 auto;
+
+  border: 3px solid
+}
+nav ul{
+  padding: 1em;
+  background-color: black;
+  list-style-type: none;
+  background: grey;
+}
+
+table{
+  width: 100%
+  border-collapse: collapse;
+}
+nav a:link {
+  color: white;
+}
+nav {
+  text-align: center;
+}
+
+nav li {
+  display: inline-block;
+}
+nav a{
+  color: white;
+  display: block;
+  text-decoration: none;
+  padding: .5em;
+}
+nav a:hover {
+  background: blue;
+}
+
+a:visited {
+  color: white;
+}
+  
+
+  
